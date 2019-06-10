@@ -147,12 +147,3 @@ table{
 	height: 50px;
 	font-size: 15px;
 }
-h3{
-	color: black;
-}
-div h3 {
-	margin-left: 50%;
-	margin-right: 50%;
-	background-color: #3e3b3bad;
-	width: 100px;
-}
